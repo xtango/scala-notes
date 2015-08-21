@@ -1,0 +1,3 @@
+// Create anon func
+(x: Int) => x * 10
+// Result: res4: Int => Int = <function1>
